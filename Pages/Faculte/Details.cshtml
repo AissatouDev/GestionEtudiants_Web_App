@@ -1,0 +1,43 @@
+﻿@page
+@model GEtudiants_Web_App.Pages.Faculte.DetailsModel
+
+@{
+    ViewData["Title"] = "Details";
+}
+
+<h1>Details</h1>
+
+<div>
+    <h4>Faculte</h4>
+    <hr />
+    <dl class="row">
+        <dt class="col-sm-2">
+            @Html.DisplayNameFor(model => model.Faculte.Libelle)
+        </dt>
+        <dd class="col-sm-10">
+            @Html.DisplayFor(model => model.Faculte.Libelle)
+        </dd>
+        <dt class="col-sm-2">
+            @Html.DisplayNameFor(model => model.Faculte.Adresse)
+        </dt>
+        <dd class="col-sm-10">
+            @Html.DisplayFor(model => model.Faculte.Adresse)
+        </dd>
+        <dt class="col-sm-2">
+            @Html.DisplayNameFor(model => model.Faculte.Telephone)
+        </dt>
+        <dd class="col-sm-10">
+            @Html.DisplayFor(model => model.Faculte.Telephone)
+        </dd>
+        <dt class="col-sm-2">
+            @Html.DisplayNameFor(model => model.Faculte.Email)
+        </dt>
+        <dd class="col-sm-10">
+            @Html.DisplayFor(model => model.Faculte.Email)
+        </dd>
+    </dl>
+</div>
+<div>
+    <a asp-page="./Edit" asp-route-id="@Model.Faculte?.Id">Edit</a> |
+    <a asp-page="./Index">Back to List</a>
+</div>

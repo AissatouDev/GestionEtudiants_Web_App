@@ -1,0 +1,133 @@
+is_global = true
+build_property.TargetFramework = net7.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = GEtudiants_Web_App
+build_property.RootNamespace = GEtudiants_Web_App
+build_property.ProjectDir = C:\Users\Aissatou6C\source\repos\GEtudiants_Web_App\
+build_property.RazorLangVersion = 7.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = C:\Users\Aissatou6C\source\repos\GEtudiants_Web_App
+build_property._RazorSourceGeneratorDebug = 
+
+[C:/Users/Aissatou6C/source/repos/GEtudiants_Web_App/Areas/Identity/Pages/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Aissatou6C/source/repos/GEtudiants_Web_App/Pages/Cours/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQ291cnNcQ3JlYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Aissatou6C/source/repos/GEtudiants_Web_App/Pages/Cours/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQ291cnNcRGVsZXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Aissatou6C/source/repos/GEtudiants_Web_App/Pages/Cours/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQ291cnNcRGV0YWlscy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Aissatou6C/source/repos/GEtudiants_Web_App/Pages/Cours/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQ291cnNcRWRpdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Aissatou6C/source/repos/GEtudiants_Web_App/Pages/Cours/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQ291cnNcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Aissatou6C/source/repos/GEtudiants_Web_App/Pages/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRXJyb3IuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Aissatou6C/source/repos/GEtudiants_Web_App/Pages/Etudiant/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRXR1ZGlhbnRcQ3JlYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Aissatou6C/source/repos/GEtudiants_Web_App/Pages/Etudiant/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRXR1ZGlhbnRcRGVsZXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Aissatou6C/source/repos/GEtudiants_Web_App/Pages/Etudiant/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRXR1ZGlhbnRcRGV0YWlscy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Aissatou6C/source/repos/GEtudiants_Web_App/Pages/Etudiant/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRXR1ZGlhbnRcRWRpdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Aissatou6C/source/repos/GEtudiants_Web_App/Pages/Etudiant/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRXR1ZGlhbnRcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Aissatou6C/source/repos/GEtudiants_Web_App/Pages/Faculte/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRmFjdWx0ZVxDcmVhdGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Aissatou6C/source/repos/GEtudiants_Web_App/Pages/Faculte/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRmFjdWx0ZVxEZWxldGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Aissatou6C/source/repos/GEtudiants_Web_App/Pages/Faculte/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRmFjdWx0ZVxEZXRhaWxzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Aissatou6C/source/repos/GEtudiants_Web_App/Pages/Faculte/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRmFjdWx0ZVxFZGl0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Aissatou6C/source/repos/GEtudiants_Web_App/Pages/Faculte/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRmFjdWx0ZVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Aissatou6C/source/repos/GEtudiants_Web_App/Pages/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Aissatou6C/source/repos/GEtudiants_Web_App/Pages/Niveau/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcTml2ZWF1XENyZWF0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Aissatou6C/source/repos/GEtudiants_Web_App/Pages/Niveau/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcTml2ZWF1XERlbGV0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Aissatou6C/source/repos/GEtudiants_Web_App/Pages/Niveau/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcTml2ZWF1XERldGFpbHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Aissatou6C/source/repos/GEtudiants_Web_App/Pages/Niveau/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcTml2ZWF1XEVkaXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Aissatou6C/source/repos/GEtudiants_Web_App/Pages/Niveau/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcTml2ZWF1XEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Aissatou6C/source/repos/GEtudiants_Web_App/Pages/Privacy.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUHJpdmFjeS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Aissatou6C/source/repos/GEtudiants_Web_App/Pages/Shared/_LoginPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU2hhcmVkXF9Mb2dpblBhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Aissatou6C/source/repos/GEtudiants_Web_App/Pages/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Aissatou6C/source/repos/GEtudiants_Web_App/Pages/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Aissatou6C/source/repos/GEtudiants_Web_App/Pages/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Aissatou6C/source/repos/GEtudiants_Web_App/Pages/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU2hhcmVkXF9MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = b-wf9t7160by
